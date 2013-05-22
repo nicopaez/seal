@@ -5,6 +5,15 @@ SEAL - Sistema de Entregas Automatizadas Libre
 
 Sistema de Entregas Automatizado Libre
 
+Quickstart
+------------------
+
+Una vez clonado el proyecto ejecutar:
+fab prepare_db #inicializa la base de datos
+fab start # iniciar la aplicacion web
+
+
+
 Índice de Proyecto
 ------------------
 
